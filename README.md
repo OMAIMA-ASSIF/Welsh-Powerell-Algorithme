@@ -1,2 +1,2 @@
-# Algo-de-Welsh-Powerell
+#Welsh-Powerell-Algorithm
 Solution pour la coloration des graphes
