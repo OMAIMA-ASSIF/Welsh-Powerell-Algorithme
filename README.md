@@ -1,2 +1,3 @@
 #Welsh-Powerell-Algorithm
-Solution pour la coloration des graphes
+Operations Research and Optimization
+Solution Approach for Coloring Graphs
